@@ -1,5 +1,5 @@
 <strong>
-<h1 align="center"> Hello! I'm Camily! :v: </h1>
+<h1 align="center"> Hello! I'm Camis! :v: </h1>
 
 </strong>
 <br />
