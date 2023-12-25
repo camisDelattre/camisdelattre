@@ -17,5 +17,5 @@
 ![amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 <ul>
-  <li>🤖 I'm a I'm a web developer, very interested in <strong> <strong>Backend Development</strong></li>
+  <li>🤖 I'm a web developer, very interested in <strong> <strong>Backend Development</strong></li>
 </ul>
